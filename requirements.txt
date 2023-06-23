@@ -2,3 +2,4 @@ streamlit-authenticator==0.2.2
 Pillow==9.4.0
 openai==0.27.7
 langchain==0.0.198
+faiss-cpu==1.7.4
